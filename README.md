@@ -2,7 +2,7 @@
 
 A modern, responsive marketing landing page for **Ebright Academy**, a kids' public
 speaking academy aimed at Malaysian parents. Built as a single self-contained
-`ebrightv2-sms.html` (no build step, no dependencies) — just open it in a browser.
+`ebrightv2-aifosee-sms.html` (no build step, no dependencies) — just open it in a browser.
 
 ## Design
 
@@ -22,4 +22,4 @@ speaking academy aimed at Malaysian parents. Built as a single self-contained
 
 ## Run
 
-Open `ebrightv2-sms.html` in any modern browser.
+Open `ebrightv2-aifosee-sms.html` in any modern browser.
